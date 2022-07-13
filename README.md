@@ -9,7 +9,7 @@
 
 I am a PhD at [NTU cyber security Lab](https://csl.ntu.edu.sg/), Singapore, Singapore.
 
-My current research focuses on xxxx, and the applications in the xxxx field. I have convoluted several conference papers. Welcome to visit my [Homepage Scholar](https://www.wj2ai.com).
+My current research focuses on Fintech/Security, and the applications in the DL.Security and DL.longtail field. I have convoluted several conference papers. Welcome to visit my [Homepage Scholar](https://www.wj2ai.com).
 
 
 <br />
